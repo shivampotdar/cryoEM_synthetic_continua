@@ -1,0 +1,8 @@
+*.pyc
+1_GenStates_CM1/Generate_CM1/
+2_GenStates_CM2/Generate_CM2/
+3_ShiftPDB_phenix/PDB_shifts/
+4_GenMRC_eman/MRCs/
+6_GenClones_python/MRC_clones/
+7_GenSTARs_python/STARs/
+8_GenStacksCTF_relion/stacks/

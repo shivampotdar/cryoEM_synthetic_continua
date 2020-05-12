@@ -1,1 +1,0 @@
-Outputs folder for first N states (.pdb) of CM1
